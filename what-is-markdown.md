@@ -23,7 +23,7 @@ fonctions, telles :
 
 * ## Titres :
 
-Utilisation du `#` devant le texte à upgrader.
+Utilisation du `#` devant le texte à upgrader.  
 `#` équivaut à h1  
 `###` équivaut à h3  
  etc
