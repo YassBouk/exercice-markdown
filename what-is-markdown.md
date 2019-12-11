@@ -3,7 +3,7 @@
 ![BeCode logo](images/logo_Becode.png)
 
 #### ==> MENU <==  
-[Page 1](adressedelapage1) [Page 2](adressedelapage2)  
+[Page 1](https://github.com/Steeve1301/exercice-markdown/blob/one/what-is-markdown.md) [Page 2](adressedelapage2)  
 
 # 1. Qu'est-ce que le **Markdown** ?
 
