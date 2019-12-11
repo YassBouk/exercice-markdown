@@ -28,7 +28,7 @@ Voici une liste ordonnée:
 
 * Les citations sont également possible en précédant votre citation d'un chevron! '>'
 
-* Vous pouvez insérer du code, il sera également traduis en html. Pour une ligne de code dans un paragraphe, entourez la ligne de code de ' '
+* Vous pouvez insérer du code, il sera également traduis en html. Pour une ligne de code dans un paragraphe, entourez la ligne de code d'accent grave
 
 * Pour les liens, donnez lui un titre entre des chevrons [] et suivez le par le lien vers lequel vous souhaitez redirigez le lecteur dans des parenthèses! 
 
@@ -38,11 +38,11 @@ J'ai personnellement appris le markdown sur le site [OpenClassRoom](https://open
 
 * Pour utiliser la coloration synthaxique, il suffit d'englober le code par 3 accents graves ''' suivi du language du code! Exemple:
 
-''' javascript
+``` javascript
 <script type="text/javascript">
     alert("Hello!");
 </script>
-'''
+```
 
 ![Bravo](https://media3.giphy.com/media/ytTYwIlbD1FBu/giphy.gif)
 
