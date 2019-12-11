@@ -21,9 +21,9 @@ fonctions, telles :
 * ## Style du texte :
 
 * ## Listes :
-  *### Ordonnées :
+  * ### Ordonnées :
   
-  *### Non-ordonnées :
+  *# ## Non-ordonnées :
   
 * ## Images :
 
