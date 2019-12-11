@@ -29,14 +29,14 @@ Voici une liste ordonnée:
 Vous pouvez également imbriquer vos liste: 
 
 1. Patron
-    1.Employé
-    2.Ouvrier
+        1.Employé
+        2.Ouvrier
 2. Véhicule
-    1.Auto
-    2.Moto
+        1.Auto
+        2.Moto
 3. Ordinateur
-    1.Portable
-    2.Fixe
+        1.Portable
+        2.Fixe
     
 
 * Les citations sont également possible en précédant votre citation d'un chevron! '>'
