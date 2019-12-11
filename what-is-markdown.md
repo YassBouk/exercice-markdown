@@ -33,16 +33,16 @@ Utilisation du `#` devant le texte à upgrader.
 
 * ## Listes :
   * ### Ordonnées :
-  `1.` Item 1
-  `1.` Item 2
-  `1.` Item 3
-     `1.` Item 3a
+  `1.` Item 1  
+  `1.` Item 2  
+  `1.` Item 3  
+     `1.` Item 3a  
      `1.` Item 3b
   * ### Non-ordonnées :
-  `*` Item 1
-  `*` Item 2
-     `*` Item 2a
-     `*` Item 2b
+  `*` Item 1  
+  `*` Item 2  
+     `*` Item 2a  
+     `*` Item 2b  
      
 * ## Images :
 `![Texte alternatif(url)`
@@ -53,9 +53,9 @@ Utilisation du `#` devant le texte à upgrader.
  * ### Liens masqués :
  `[GitHub](http://github.com)`
 
-* ## Citations :
-`>` >Seul on va plus vite,
-`>` >Ensemble, on va plus loin.
+* ## Blockquotes :
+> `>` Seul on va plus vite,
+> `>` Ensemble, on va plus loin.
 
 * ## Ligne de code :
 I think you should use an
