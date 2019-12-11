@@ -30,6 +30,10 @@ Voici une liste ordonnée:
 
 * Pour les liens, donnez lui un titre entre des chevrons [] et suivez le par le lien vers lequel vous souhaitez redirigez le lecteur dans des parenthèses! 
 
-J'ai personnellement appris le markdown sur le [OpenClassRoom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown) 
+J'ai personnellement appris le markdown sur le site [OpenClassRoom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown) 
 
+* Hop hop hop, retour sur les liens! pour les images ce sera exactement la même chose, mais vous y ajouterez un point d'exclamation devant le chevron du titre!
 
+![Bravo](https://media3.giphy.com/media/ytTYwIlbD1FBu/giphy.gif)
+
+Tu maitrises désormais toutes les base du markdown!
