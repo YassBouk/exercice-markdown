@@ -28,15 +28,15 @@ Voici une liste ordonnée:
 
 Vous pouvez également imbriquer vos liste: 
 
-*. Patron
-        *. Employé
-        *. Ouvrier
-*. Véhicule
-        *. Auto
-        *. Moto
-*. Ordinateur
-        *. Portable
-        *. Fixe
+* Patron
+    * Employé
+    * Ouvrier
+* Véhicule
+    * Auto
+    * Moto
+* Ordinateur
+    * Portable
+    * Fixe
     
 
 * Les citations sont également possible en précédant votre citation d'un chevron! '>'
