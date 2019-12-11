@@ -33,16 +33,16 @@ Utilisation du `#` devant le texte à upgrader.
 
 * ## Listes :
   * ### Ordonnées :
-  `1.` Item 1  
-  `1.` Item 2  
-  `1.` Item 3  
-     `1.` Item 3a  
-     `1.` Item 3b
+  1. `1.` Item 1  
+  1. `1.` Item 2  
+  1. `1.` Item 3  
+   1. `1.` Item 3a  
+   1. `1.` Item 3b
   * ### Non-ordonnées :
-  `*` Item 1  
-  `*` Item 2  
-     `*` Item 2a  
-     `*` Item 2b  
+  * `*` Item 1  
+  * `*` Item 2  
+   * `*` Item 2a  
+   *`*` Item 2b  
      
 * ## Images :
 `![Texte alternatif(url)`
