@@ -14,3 +14,10 @@ toutes les bibliotheques ont le même rôle, elles traduises du texte Markdown e
 
 ![Titre](https://user.oc-static.com/files/420001_421000/420264.png)
 
+Si vous voulez utiliser Markdown pour vos forums par exemple, les choses devraient se passer dans cet ordre :
+
+   1. Le visiteur écrit un texte en Markdown lorsqu'il rédige un message sur vos forums ;
+
+   2. Vous stockez ce texte tel quel en Markdown dans votre base de données ;
+
+   3. Lorsqu'un autre visiteur veut lire le message du membre, vous récupérez le texte en Markdown et vous le faites traduire en    HTML par une bibliothèque Markdown.
