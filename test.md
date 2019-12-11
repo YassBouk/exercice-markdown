@@ -18,7 +18,8 @@ Quels sont les syntaxes du markdown?
 
 * La création d'une liste à puce est aussi facilitée! Pour une liste ordonnée, nous débuterons chaque ligne pas '1.' '2.' '3.' etc... Pour une liste non ordonnée, il suffira de commencer chaque ligne par une étoile suivie d'un espace!
 
-    1.Ceci est un test
-    2.Mais aussi
-    3.Une liste ordonnée
-    
+Voici une liste ordonnée:
+
+1. Comme vous le voyez
+2. Ceci est une 
+3. Liste ordonnée
