@@ -9,7 +9,12 @@ Voici un aperçu de la syntaxe Markdown
 
 Titres
 ------
-Il y a plusieurs façons d'écrire des titres en Markdown.
+
+`# Titre de niveau 1`
+
+`## Titre de niveau 2`
+
+`### Titre de niveau 3`
 
 Emphase
 -------
