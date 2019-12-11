@@ -23,3 +23,7 @@ Voici une liste ordonnée:
 1. Comme vous le voyez
 2. Ceci est une 
 3. Liste ordonnée
+
+* Les citations sont également possible en précédant votre citation d'un chevron! '>'
+
+* Vous pouvez insérer du code, il sera également traduis en html. Pour une ligne de code dans un paragraphe, entourez la ligne de code de ' exemple: Voici la balise '<video>'
