@@ -36,13 +36,11 @@ Utilisation du `#` devant le texte à upgrader.
   1. `1.` Item 1
   1. `1.` Item 2
   1. `1.` Item 3
-    1. `1.` Item 3a
-    1. `1.` Item 3b
+Utiliser l'indentation (TAB) pour décaller le niveau de liste.
   * ### Non-ordonnées :
   * `*` Item 1
   * `*` Item 2
-   * `*` Item 2a
-   *`*` Item 2b
+  * `*` Item 3
      
 * ## Images :
 `![Texte alternatif(url)`
@@ -54,7 +52,7 @@ Utilisation du `#` devant le texte à upgrader.
  `[GitHub](http://github.com)`
 
 * ## Blockquotes :
-> `>` Seul on va plus vite,
+> `>` Seul on va plus vite,  
 > `>` Ensemble, on va plus loin.
 
 * ## Ligne de code :
