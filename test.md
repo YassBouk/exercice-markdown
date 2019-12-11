@@ -1,12 +1,7 @@
-Travail de groupe
-=================
+Le markdown, c'est quoi ?
+=========================
 
-Bonjour ceci est un paragraphe
+Le markdown, c'est un language qui permet d'utiliser certaines fonctionnalitées du language *HTML* de façon raccourcie
 
-Et ça un *deuxieme*   
+ 
 
-Voici la liste des choses à faire
-
-* Ok
-* Ok
-* Ok
