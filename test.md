@@ -26,4 +26,10 @@ Voici une liste ordonnée:
 
 * Les citations sont également possible en précédant votre citation d'un chevron! '>'
 
-* Vous pouvez insérer du code, il sera également traduis en html. Pour une ligne de code dans un paragraphe, entourez la ligne de code de ' exemple: Voici la balise '<video>'
+* Vous pouvez insérer du code, il sera également traduis en html. Pour une ligne de code dans un paragraphe, entourez la ligne de code de ' '
+
+* Pour les liens, donnez lui un titre entre des chevrons [] et suivez le par le lien vers lequel vous souhaitez redirigez le lecteur dans des parenthèses! 
+
+J'ai personnellement appris le markdown sur le [OpenClassRoom](https://openclassrooms.com/fr/courses/1304236-redigez-en-markdown) 
+
+
