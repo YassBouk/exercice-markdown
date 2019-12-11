@@ -5,9 +5,8 @@ Le markdown, c'est un language qui permet d'utiliser certaines fonctionnalitées
 
 
 # **le markdown sur un site.**
-=========================
 
-pour que les visiteurs puisse écrire en markdown sur un ste il existe des implémentations de Markdows dans plusieurs langues.
+Pour que les visiteurs puisse écrire en Markdown sur un site il existe des implémentations de Markdows dans plusieurs langues.
 
 un liste des implémentations est disponible sur [wikipedia](https://en.wikipedia.org/wiki/List_of_Markdown_implementations)
 
