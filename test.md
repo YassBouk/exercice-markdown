@@ -36,6 +36,14 @@ J'ai personnellement appris le markdown sur le site [OpenClassRoom](https://open
 
 * Hop hop hop, retour sur les liens! pour les images ce sera exactement la même chose, mais vous y ajouterez un point d'exclamation devant le chevron du titre!
 
+* Pour utiliser la coloration synthaxique, il suffit d'englober le code par 3 accents graves ''' suivi du language du code! Exemple:
+
+''' javascript
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+'''
+
 ![Bravo](https://media3.giphy.com/media/ytTYwIlbD1FBu/giphy.gif)
 
 Tu maitrises désormais toutes les base du markdown!
