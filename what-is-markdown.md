@@ -1,6 +1,6 @@
 # Le Markdown  
 ###### par Geoffrey, Jonathan, Steeve et Yassine.  
-![BeCode logo](images/logo_Becode.png)
+![BeCode logo](https://www.becode.org/register/assets/images/logo_Becode.png)
 
 #### ==> MENU <==  
 [Introduction](https://github.com/Steeve1301/exercice-markdown/blob/one/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/one/continue-with-markdown.md)
