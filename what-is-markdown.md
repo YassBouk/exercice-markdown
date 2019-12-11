@@ -23,7 +23,12 @@ fonctions, telles :
 
 * ## Titres :
 
-* ## Style du texte :
+Utilisation du ´#´ devant le texte à upgrader.
+´#´ équivaut à h1
+´###´ équivaut à h3
+
+* ## Emphase :
+´*´ Texte en italic ´*´
 
 * ## Listes :
   * ### Ordonnées :
@@ -48,4 +53,4 @@ fonctions, telles :
 
 * ## Mentions :
 
-* Emoji :
+* ## Emoji :
