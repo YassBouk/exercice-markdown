@@ -54,8 +54,8 @@ Utilisation du `#` devant le texte à upgrader.
  `[GitHub](http://github.com)`
 
 * ## Citations :
-`>`> Seul on va plus vite,
-`>`> Ensemble, on va plus loin.
+`>` >Seul on va plus vite,
+`>` >Ensemble, on va plus loin.
 
 * ## Ligne de code :
 I think you should use an
