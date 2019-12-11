@@ -10,21 +10,36 @@ Voici un aperçu de la syntaxe Markdown
 Titres
 ------
 
-`# Titre de niveau 1`
+`# Ceci est un titre de niveau 1`
 
-`## Titre de niveau 2`
+`## Ceci est un titre de niveau 2`
 
-`### Titre de niveau 3`
+`### Ceci est un titre de niveau 3`
 
 Emphase
 -------
+### Emphase faible
+`*Ce texte s'affiche en italique*`
+
+`_Celui là aussi_`
+
+### Emphase forte
+`**Ce texte s'affiche en gras**`
+
+`__Celui là aussi__`
 
 Listes
 ------
 
 ### Listes à puces
 
-### Listes à puces numérotées
+`* puce 1`
+
+`* puce 2`
+
+`* puce 3`
+
+### Listes numérotées
 
 Images
 ------
