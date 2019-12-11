@@ -1,12 +1,11 @@
 # 1. Qu'est-ce que le **Markdown** ?
-====================================
 
 Markdown est une syntaxe légère et simple d'utilisation pour styliser toutes formes
 de textes écrites sur le web. 
 La mise en page des fichiers GitHub est essentiellement basée sur Markdown.
 
+--------------------------
 # 1. Que permet Markdown ?
-==========================
 
 Markdown permet de contrôler l'affichage et la mise en page de documents sur le web grâce à certaines
 fonctions, telles :
@@ -16,33 +15,25 @@ fonctions, telles :
 * Gérer des listes ordonnées ou non.
 * Un tas d'autres choses...
 
+-------------------------
 # 1. La syntaxe de base :
-=========================
 
 * ## Titres :
--------------
 
 * ## Style du texte :
----------------------
 
 * ## Listes :
--------------
   *### Ordonnées :
   
   *### Non-ordonnées :
   
 * ## Images :
--------------
 
 * ## Liens :
-------------
 
 * ## Citations :
-----------------
 
 * ## Ligne de code :
---------------------
 
-
+------------------------------------
 # 1. Allez plus loin avec Markdown ?
-========================================
