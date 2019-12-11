@@ -1,3 +1,8 @@
+Le Markdown
+par Geoffrey, Jonathan, Steeve et Yassine.
+
+MENU
+
 # 1. Qu'est-ce que le **Markdown** ?
 
 Markdown est une syntaxe légère et simple d'utilisation pour styliser toutes formes
@@ -23,7 +28,7 @@ fonctions, telles :
 * ## Listes :
   * ### Ordonnées :
   
-  *# ## Non-ordonnées :
+  * ### Non-ordonnées :
   
 * ## Images :
 
@@ -34,3 +39,13 @@ fonctions, telles :
 * ## Ligne de code :
 
 # 4. Allez plus loin avec Markdown ?
+
+* ## Syntaxe spécifique au code :
+
+* ## Liste de tâches :
+
+* ## Tableaux :
+
+* ## Mentions :
+
+* Emoji :
