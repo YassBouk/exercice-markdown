@@ -24,11 +24,12 @@ fonctions, telles :
 * ## Titres :
 
 Utilisation du ´#´ devant le texte à upgrader.
-´#´ équivaut à h1
-´###´ équivaut à h3
+`#` équivaut à h1
+`###` équivaut à h3
+ etc
 
 * ## Emphase :
-´*´ Texte en italic ´*´
+`*` Texte en italic `*`
 
 * ## Listes :
   * ### Ordonnées :
