@@ -12,4 +12,6 @@ Quels sont les syntaxes du markdown?
 * Pour un paragraphe, rien de plus simple: il suffit de laisser une ligne vide entre chaque paragraphe, ceux-ci se convertiront tout seul avec les balises < p >
     
 
-Pour utiliser la fonction italique ? il suffit d'entourer le mot ciblé par des * 
+* Pour utiliser la fonction *italique* ? il suffit d'entourer le mot ciblé par des * ou des underscore
+
+* Pour la fonction **gras**, cela sera assez similaire avec la fonction italique, mais vous doublerez les **étoiles** ou les __underscore__!
