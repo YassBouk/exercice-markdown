@@ -3,7 +3,8 @@
 ![BeCode logo](images/logo_Becode.png)
 
 #### ==> MENU <==  
-[Page 1](https://github.com/Steeve1301/exercice-markdown/blob/one/what-is-markdown.md) [Page 2](adressedelapage2)  
+[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/one/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/one/continue-with-markdown.md)
+---------------------- | ----------------------
 
 # 1. Qu'est-ce que le **Markdown** ?
 
