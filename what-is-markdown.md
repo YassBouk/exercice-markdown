@@ -1,5 +1,6 @@
 # Le Markdown  
 ###### par Geoffrey, Jonathan, Steeve et Yassine.  
+![BeCode logo](images/logo_Becode.png)
 
 #### ==> MENU <==  
 [Page 1](adressedelapage1) [Page 2](adressedelapage2)  
