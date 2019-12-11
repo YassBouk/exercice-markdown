@@ -60,3 +60,5 @@ J'ai personnellement appris le markdown sur le site [OpenClassRoom](https://open
 ![Bravo](https://media3.giphy.com/media/ytTYwIlbD1FBu/giphy.gif)
 
 Tu maitrises désormais toutes les base du markdown!
+
+Tuto réalisé en salle d'apprentissage chez [BeCode](https://www.becode.org/)
