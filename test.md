@@ -26,6 +26,19 @@ Voici une liste ordonnée:
 2. Ceci est une 
 3. Liste ordonnée
 
+Vous pouvez également imbriquer vos liste: 
+
+1. Patron
+    1.Employé
+    2.Ouvrier
+2. Véhicule
+    1.Auto
+    2.Moto
+3. Ordinateur
+    1.Portable
+    2.Fixe
+    
+
 * Les citations sont également possible en précédant votre citation d'un chevron! '>'
 
 * Vous pouvez insérer du code, il sera également traduis en html. Pour une ligne de code dans un paragraphe, entourez la ligne de code d'accent grave
@@ -36,7 +49,7 @@ J'ai personnellement appris le markdown sur le site [OpenClassRoom](https://open
 
 * Hop hop hop, retour sur les liens! pour les images ce sera exactement la même chose, mais vous y ajouterez un point d'exclamation devant le chevron du titre!
 
-* Pour utiliser la coloration synthaxique, il suffit d'englober le code par 3 accents graves ''' suivi du language du code! Exemple:
+* Pour utiliser la coloration synthaxique, il suffit d'englober le code par 3 accents graves  suivi du language du code! Exemple:
 
 ``` javascript
 <script type="text/javascript">
