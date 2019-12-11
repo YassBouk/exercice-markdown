@@ -46,10 +46,9 @@ Utiliser l'indentation (TAB) pour décaller le niveau de liste.
 `![Texte alternatif(url)`
 
 * ## Liens :
- * ### Liens directs :
- `http://www.github.com - automatic!`
  * ### Liens masqués :
- `[GitHub](http://github.com)`
+ `[Texte d'affichage du lien](http://urldulien.com)`  
+ [Wikipedia](www.wikipedia.org)
 
 * ## Blockquotes :
 > `>` Seul on va plus vite,  
