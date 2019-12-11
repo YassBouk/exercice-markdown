@@ -4,6 +4,6 @@ Et ça un !!deuxieme!!
 
 Voici la liste des choses à faire
 
-*tester
-*uploader
-*vérifier
+1.Ok
+1.Ok
+1.Ok
