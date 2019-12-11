@@ -39,7 +39,13 @@ Listes
 
 `* puce 3`
 
+
+
 ### Listes numérotées
+
+1. Un
+2. Deux
+3. Trois
 
 Images
 ------
