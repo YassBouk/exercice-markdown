@@ -1,6 +1,9 @@
+Travail de groupe
+=================
+
 Bonjour ceci est un paragraphe
 
-Et ça un !!deuxieme!!    
+Et ça un *deuxieme*   
 
 Voici la liste des choses à faire
 
