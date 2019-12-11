@@ -1,7 +1,8 @@
-Le Markdown
-par Geoffrey, Jonathan, Steeve et Yassine.
+# Le Markdown  
+###### par Geoffrey, Jonathan, Steeve et Yassine.  
 
-MENU
+# ==> MENU <==  
+[Page 1](adressedelapage1) [Page 2](adressedelapage2)  
 
 # 1. Qu'est-ce que le **Markdown** ?
 
@@ -49,7 +50,7 @@ Utiliser l'indentation (TAB) pour décaller le niveau de liste.
  `[Texte d'affichage du lien](http://urldulien.com)`  
  [Wikipedia](www.wikipedia.org)
 
-* ## Blockquotes :
+* ## Citations :
 > `>` Seul on va plus vite,  
 > `>` Ensemble, on va plus loin.
 
