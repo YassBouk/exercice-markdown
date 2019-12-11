@@ -24,8 +24,8 @@ fonctions, telles :
 * ## Titres :
 
 Utilisation du `#` devant le texte à upgrader.
-`#` équivaut à h1
-`###` équivaut à h3
+`#` équivaut à h1  
+`###` équivaut à h3  
  etc
 
 * ## Emphase :
@@ -35,7 +35,7 @@ Utilisation du `#` devant le texte à upgrader.
   * ### Ordonnées :
   1. `1.` Item 1
   1. `1.` Item 2
-  1. `1.` Item 3
+  1. `1.` Item 3  
 Utiliser l'indentation (TAB) pour décaller le niveau de liste.
   * ### Non-ordonnées :
   * `*` Item 1
@@ -56,7 +56,14 @@ Utiliser l'indentation (TAB) pour décaller le niveau de liste.
 > `>` Ensemble, on va plus loin.
 
 * ## Ligne de code :
-Mettre la balise de code entre \`
+\` Mettre la balise de code entre \`
+
+* ## Forcer à aller à la ligne :
+Double espace à la fin de la ligne
+
+* ## Ignorer un caractère spécial :
+Préceder le caractère d'un \  
+Exemple: \# permet d'afficher le \# .
 
 # 4. Allez plus loin avec Markdown ?
 
