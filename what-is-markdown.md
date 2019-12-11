@@ -46,7 +46,6 @@ Utiliser l'indentation (TAB) pour décaller le niveau de liste.
 `![Texte alternatif(url)`
 
 * ## Liens :
- * ### Liens masqués :
  `[Texte d'affichage du lien](http://urldulien.com)`  
  [Wikipedia](www.wikipedia.org)
 
@@ -62,7 +61,7 @@ Double espace à la fin de la ligne
 
 * ## Ignorer un caractère spécial :
 Préceder le caractère d'un \  
-Exemple: \# permet d'afficher le \# .
+Exemple: \\# permet d'afficher le \# .
 
 # 4. Allez plus loin avec Markdown ?
 
