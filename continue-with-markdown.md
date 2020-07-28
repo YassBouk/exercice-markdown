@@ -3,29 +3,66 @@
 ![BeCode logo](https://www.becode.org/register/assets/images/logo_Becode.png)
 
 #### ==> MENU <==  
-[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/one/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/one/continue-with-markdown.md)
----------------------- | ----------------------
+[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/master/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/master/continue-with-markdown.md) | [Read Me](https://github.com/Steeve1301/exercice-markdown/blob/master/readme.md)  
+---------------------- | ---------------------- | ----------------------
 
  # 4. Allez plus loin avec Markdown ?
 
-* ## Syntaxe spécifique au code :
+* ## Coloration synthaxique :
 
+     Pour utiliser la coloration synthaxique, il suffit d'englober le code par 3 accents graves  suivi du language du code! Exemple:
+
+\`\`\` javascript  
+``` javascript
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+```
+\`\`\` 
 * ## Liste de tâches :
 
+### Membres du groupe 4
+
+- [ ] Yassine S
+- [x] Yassine B
+- [x] Steeve
+- [x] Geoffrey
+- [ ] Stéphane
+- [ ] Soufiane
+- [x] Jonathan
+
+```
+- [ ] Yassine S
+- [x] Yassine B
+- [x] Steeve
+- [x] Geoffrey
+- [ ] Stéphane
+- [ ] Soufiane
+- [x] Jonathan
+```
+
 * ## Tableaux :
-> `En-tête 1 | En-tête 2`  
-> `------------ | -------------`  
-> `Contenu cellule 1 | Contenu cellule 2`  
-> `Contenu 1ere colonne | Contenu 2ere colonne `  
 
-En-tête 1 | En-tête 2
------------- | -------------
-Contenu cellule 1 | Contenu cellule 2
-Contenu 1ere colonne | Contenu 2ere colonne
+ Choix1     |     Choix2      |   Choix3    |
+------------|   ------------- |  ---------  |
+ Choix X    |        1        |     valeur  |
+ Choix Y    |        2        |     valeur  |
+ Choix Z    |        3        |     valeur  |
 
-* ## Mentions :
+``` Choix1     |     Choix2      |   Choix3    |
+------------|   ------------- |  ---------  |
+ Choix X    |        1        |     valeur  |
+ Choix Y    |        2        |     valeur  |
+ Choix Z    |        3        |     valeur  |
+ ```
 
-* ## Emoji :
 
+![Bravo](https://media3.giphy.com/media/ytTYwIlbD1FBu/giphy.gif)
 
-![Deal with it](https://media2.giphy.com/media/Ent2j55lyQipa/giphy.gif?cid=790b76116d473ad2eadb090db08f1a343a6a8e2765e7c63c&rid=giphy.gif)
+Tu maitrises désormais toutes les bases du markdown!
+
+**Tuto réalisé en salle d'apprentissage chez [BeCode](https://www.becode.org/)**
+
+#### ==> MENU <==  
+[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/master/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/master/continue-with-markdown.md) | [Read Me](https://github.com/Steeve1301/exercice-markdown/blob/master/readme.md)  
+---------------------- | ---------------------- | ----------------------

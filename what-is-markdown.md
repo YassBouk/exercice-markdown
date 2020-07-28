@@ -1,18 +1,20 @@
 # Le Markdown  
-###### par Geoffrey, Jonathan, Steeve et Yassine.  
+###### par @Geoffrey-becode, @j-pard, @Steeve1301 et @YassBouk.  
 ![BeCode logo](https://www.becode.org/register/assets/images/logo_Becode.png)
 
 #### ==> MENU <==  
-[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/one/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/one/continue-with-markdown.md)
----------------------- | ----------------------
+[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/master/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/master/continue-with-markdown.md) | [Read Me](https://github.com/Steeve1301/exercice-markdown/blob/master/readme.md)  
+---------------------- | ---------------------- | ----------------------
 
-# 1. Qu'est-ce que le **Markdown** ?
+## 1. Qu'est-ce que le **Markdown** ?
+-----------------------------------
 
 Markdown est une syntaxe légère et simple d'utilisation pour styliser toutes formes
 de textes écrites sur le web. 
 La mise en page des fichiers GitHub est essentiellement basée sur Markdown.
 
-# 2. Que permet Markdown ?
+## 2. Que permet Markdown ?
+---------------------------
 
 Markdown permet de contrôler l'affichage et la mise en page de documents sur le web grâce à certaines
 fonctions, telles :
@@ -22,7 +24,8 @@ fonctions, telles :
 * Gérer des listes ordonnées ou non.
 * Un tas d'autres choses...
 
-# 3. La syntaxe de base :
+## 3. La syntaxe de base :
+-------------------------
 
 * ## Titres :
 
@@ -32,29 +35,63 @@ Utilisation du `#` devant le texte à upgrader.
  etc
 
 * ## Emphase :
-`*`*Texte en italic*`*`
+ *Texte en italique*
+```*Texte en italique*``` 
 
 * ## Listes :
   * ### Ordonnées :
-  1. `1.` Item 1
-  1. `1.` Item 2
-  1. `1.` Item 3  
+  
+Voici une liste ordonnée:
+
+1. Comme vous le voyez
+2. Ceci est une 
+3. Liste ordonnée
+
+```
+1. Comme vous le voyez
+2. Ceci est une 
+3. Liste ordonnée
+
+```
 Utiliser l'indentation (TAB) pour décaller le niveau de liste.
   * ### Non-ordonnées :
   * `*` Item 1
   * `*` Item 2
   * `*` Item 3
-     
+  
+Vous pouvez également imbriquer vos listes: 
+
+* Patron
+    * Employé
+    * Ouvrier
+* Véhicule
+    * Auto
+    * Moto
+* Ordinateur
+    * Portable
+    * Fixe
+    
+```
+* Patron
+    * Employé
+    * Ouvrier
+* Véhicule
+    * Auto
+    * Moto
+* Ordinateur
+    * Portable
+    * Fixe
+```
+
 * ## Images :
-`![Texte alternatif(url)`
+`![Texte alternatif](url)`
 
 * ## Liens :
  `[Texte d'affichage du lien](http://urldulien.com)`  
  [Wikipedia](www.wikipedia.org)
 
 * ## Citations :
-> `>` Seul on va plus vite,  
-> `>` Ensemble, on va plus loin.
+> `>` Seul on va plus vite, ensemble, on va plus loin.
 
 * ## Ligne de code :
 \` Mettre la balise de code entre \`
@@ -66,3 +103,6 @@ Double espace à la fin de la ligne
 Préceder le caractère d'un \  
 Exemple: \\# permet d'afficher le \# .
 
+#### ==> MENU <==  
+[Introduction](https://github.com/Steeve1301/exercice-markdown/blob/master/what-is-markdown.md) | [Aller plus loin](https://github.com/Steeve1301/exercice-markdown/blob/master/continue-with-markdown.md) | [Read Me](https://github.com/Steeve1301/exercice-markdown/blob/master/readme.md)  
+---------------------- | ---------------------- | ----------------------
