@@ -1,13 +1,13 @@
 # Exercice MarkDown : Intelligence Collective
 
 ### Projet
-C'est une description de MarkDown et un guide pour l'utiliser.
+Description de MarkDown et guide pour l'utiliser.
 
 ### Travail de groupe
 [Jonathan](https://github.com/j-pard), [Geoffrey](https://github.com/Geoffrey-becode), [Yassine](https://github.com/YassBouk) et [Steeve](https://github.com/Steeve1301)
 
 ### Date
-Exercice fait le 11 décembre 2019 pendant la formation [BeCode](https://www.becode.org/).
+Fait le 11 décembre 2019 durant la formation [BeCode](https://www.becode.org/).
 
 ![BeCode logo](https://becode.org/app/uploads/2020/03/bc_mailsign_seal.png)
 
